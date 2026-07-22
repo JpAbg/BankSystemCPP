@@ -1,4 +1,4 @@
-Bank Account System (C++)
+Bank Account Management System (C++)
 
 Author: Jean Paul Abou Gharib
 
